@@ -11,6 +11,7 @@ Este proyecto es una aplicación web simple desarrollada con **Python** y **Flas
 - JavaScript
 
 
+
 ## 🧠 ¿Cómo funciona?
 
 1. El archivo `frases.py` contiene una lista de frases inspiradoras.
